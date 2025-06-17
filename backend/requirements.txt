@@ -1,0 +1,9 @@
+fastapi 
+uvicorn
+bcrypt==3.2.0
+asyncpg
+# requests==2.25.1 #Necesario para pedir datos  a través de APIs
+polars
+itsdangerous ==2.0.1 #De cuando se ponen las sesiones
+fastapi_utils ==0.2.1
+typing-inspect==0.6.0
