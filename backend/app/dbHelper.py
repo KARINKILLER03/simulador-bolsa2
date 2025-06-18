@@ -5,10 +5,10 @@ from decimal import Decimal
 
 # Configuración para Neon con SSL
 NEON_DATABASE_CONFIG = {
-    "host": "ep-super-bush-a9o5isnp-pooler.gwc.azure.neon.tech",
+    "host": "ep-orange-hat-a9tfm0sf-pooler.gwc.azure.neon.tech",
     "port": 5432,
     "user": "neondb_owner", 
-    "password": "npg_IwZC2FBgU7GS",
+    "password": "npg_z9clNuH1OpRZ",
     "database": "neondb",
     "ssl": "require"
 }
